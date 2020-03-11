@@ -63,9 +63,9 @@
 
 [https://pub.dev](https://pub.dev)
 
-[https://pub.dev](https://pub.flutter-io.cn)
+[https://pub.flutter-io.cn](https://pub.flutter-io.cn)
 
-[https://pub.dev](https://github.com/flutter)
+[https://github.com/flutter](https://github.com/flutter)
  
 ## 附录B
 [工具Dart Pad](https://dartpad.dartlang.org)
@@ -82,6 +82,7 @@ expot PUB_HOSTED_URL=https://dart-pub.mirrors.sjtug.sjtu.edu.cn/
 ```
 ### widgets完整关系图
 ![widgets](https://github.com/davidlin7876/flutter-wiki/raw/master/images/8112345-bf44219f46c955aa.png)
+
 
 
 
