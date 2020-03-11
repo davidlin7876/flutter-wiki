@@ -81,7 +81,7 @@ export FLUTTER_STORAGE_BASE_URL=https://mirrors.sjtug.sjtu.edu.cn/
 expot PUB_HOSTED_URL=https://dart-pub.mirrors.sjtug.sjtu.edu.cn/
 ```
 ### widgets完整关系图
-![widgets](https://upload-images.jianshu.io/upload_images/8112345-bf44219f46c955aa?imageMogr2/auto-orient/strip|imageView2/2/w/846)
+![widgets](https://github.com/davidlin7876/flutter-wiki/raw/master/images/8112345-bf44219f46c955aa.png)
 
 
 
